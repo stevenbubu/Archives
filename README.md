@@ -1,7 +1,7 @@
 ver: 0.0.2
 
 <div style="text-align: center; font-family: serif; margin: 4em 0;">
-  <span style="font-size: 1.5em; color:rgb(97, 60, 231);">
+  <span style="font-size: 3em; color:rgb(97, 60, 231);">
     &ldquo;Record what I have done recently and reflect on my progress.&rdquo;
   </span><br>
   <small>—— Since 2025</small>
@@ -15,7 +15,10 @@ ver: 0.0.2
          height="375">
   </div>
   <div style="flex: 3; border: 0px solid #ddd; padding: 10px;">
-    Experience<br>
+    <span style="font-size: 1.5em;">
+        Experience<br>
+    </span><br>
+    
     
   </div>
 </div>
