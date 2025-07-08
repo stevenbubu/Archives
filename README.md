@@ -2,22 +2,20 @@
 
 
 
-<!-- <div style="display: flex; gap: 0px;">
+<div style="display: flex; gap: 0px;">
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
-    <img src="{{ site.baseurl }}/assets/imagesㄥ6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
+    ![Head Image](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg)
     
   </div>
   <div style="flex: 2; border: 1px solid #ddd; padding: 10px;">
     Experience
     
   </div>
-</div> -->
+</div>
 
-<!-- ![替代文字](https://github.com/stevenbubu/Archives/blob/main/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg?raw=true) -->
 
-![替代文字](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg)
+![Head Image](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg)
 
-<!-- ![替代文字]({{ "/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg" | relative_url }}) -->
 
 
 ## Project
