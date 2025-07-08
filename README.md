@@ -4,10 +4,9 @@
 
 <div style="display: flex; gap: 0px;">
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
-    <!-- ![Head Image](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg) -->
-    <img src="{{ '/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg' | relative_url }}" 
+    <img src="{{ '/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg' | relative_url }}"
          alt="Head Image"
-         class="product-image">
+         width="100" height="125>
   </div>
   <div style="flex: 2; border: 1px solid #ddd; padding: 10px;">
     Experience
@@ -16,7 +15,7 @@
 </div>
 
 
-![Head Image](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg)
+<!-- ![Head Image](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg) -->
 
 
 
