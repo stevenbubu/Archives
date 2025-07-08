@@ -1,8 +1,8 @@
-ver: 0.0.2
+ver: 0.0.3
 
 <div style="text-align: center; font-family: serif; margin: 4em 0;">
-  <span style="font-size: 3em; color:rgb(97, 60, 231);">
-    &ldquo;Record what I have done recently and reflect on my progress.&rdquo;
+  <span style="font-size: 2em; color:rgb(97, 60, 231);">
+    &ldquo;Record what I have done recently.&rdquo;
   </span><br>
   <small>—— Since 2025</small>
 </div>
