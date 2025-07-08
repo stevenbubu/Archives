@@ -1,25 +1,17 @@
 **Here is to record what I have done recently and reflect on my progress.**
 
 
-<html>
-    <table style="margin-left: auto; margin-right: auto;">
-        <tr>
-            <td>
-                <!--左侧内容-->
-                ![Logo]({"/Images/6ee9e6076eff1dd73be0938a1a734495.jpg"})
-            </td>
-            <td>
-                <!--右侧内容-->
-                右侧
-                <img src="https://i-blog.csdnimg.cn/blog_migrate/53d6a8da336371bcfc206829506d29dd.jpeg" width=100 height=100>
-            </td>
-        </tr>
-    </table>
-</html>
 
+<div style="display: flex; gap: 0px;">
+  <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
+    <img src="assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
+  </div>
+  <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
+    Experience
+    
+  </div>
+</div>
 
-<!-- ![Logo]({{"/Images/6ee9e6076eff1dd73be0938a1a734495.jpg"}}) -->
-<img src="{{ '/archives/Images/6ee9e6076eff1dd73be0938a1a734495.jpg' | relative_url }}" alt="Head Image" width=100 height=100" />
 
 ## Project
 1
