@@ -1,6 +1,5 @@
----
-tags: ver 0.0.4
----
+<!-- ver 0.0.4 -->
+
 <div style="text-align: center; font-family: serif; margin: 4em 0;">
   <span style="font-size: 2.5em; color:rgb(97, 60, 231);">
     &ldquo; Record what I have done recently. &rdquo;
