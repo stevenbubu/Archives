@@ -2,17 +2,18 @@
 
 
 
-<div style="display: flex; gap: 0px;">
+<!-- <div style="display: flex; gap: 0px;">
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
-    <img src="6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
+    <img src="{{ site.baseurl }}/assets/imagesㄥ6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
     
   </div>
   <div style="flex: 2; border: 1px solid #ddd; padding: 10px;">
     Experience
     
   </div>
-</div>
+</div> -->
 
+![替代文字](https://github.com/你的帳號/你的repo/blob/main/assets/images/logo.png?raw=true)
 
 ## Project
 1
