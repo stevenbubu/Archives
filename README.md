@@ -4,7 +4,7 @@
 
 <div style="display: flex; gap: 0px;">
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
-    <img src="assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
+    <img src="6ee9e6076eff1dd73be0938a1a734495.jpg" alt="Head Image" width=200 height=250" />
   </div>
   <div style="flex: 1; border: 1px solid #ddd; padding: 10px;">
     Experience
