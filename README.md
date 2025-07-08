@@ -15,6 +15,10 @@
 
 ![替代文字](https://github.com/stevenbubu/Archives/blob/main/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg?raw=true)
 
+![替代文字](assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg)
+
+![替代文字]({{ "/assets/images/6ee9e6076eff1dd73be0938a1a734495.jpg" | relative_url }})
+
 
 ## Project
 1
