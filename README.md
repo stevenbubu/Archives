@@ -6,7 +6,7 @@
         <tr>
             <td>
                 <!--左侧内容-->
-                <img src="https://drive.google.com/file/d/1ALMLSPNppXYXi0efR6OOJSZ3_ARzHgMW/view?usp=sharing" alt="Head Image" width="100" height="125" />
+                ![Logo]({"/Images/6ee9e6076eff1dd73be0938a1a734495.jpg"})
             </td>
             <td>
                 <!--右侧内容-->
@@ -16,6 +16,10 @@
         </tr>
     </table>
 </html>
+
+
+<!-- ![Logo]({{"/Images/6ee9e6076eff1dd73be0938a1a734495.jpg"}}) -->
+<img src="{{ '/archives/Images/6ee9e6076eff1dd73be0938a1a734495.jpg' | relative_url }}" alt="Head Image" width=100 height=100" />
 
 ## Project
 1
