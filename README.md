@@ -1,8 +1,9 @@
-ver: 0.0.3
-
+---
+tags: ver 0.0.4
+---
 <div style="text-align: center; font-family: serif; margin: 4em 0;">
-  <span style="font-size: 2em; color:rgb(97, 60, 231);">
-    &ldquo;Record what I have done recently.&rdquo;
+  <span style="font-size: 2.5em; color:rgb(97, 60, 231);">
+    &ldquo; Record what I have done recently. &rdquo;
   </span><br>
   <small>—— Since 2025</small>
 </div>
@@ -16,7 +17,7 @@ ver: 0.0.3
   </div>
   <div style="flex: 3; border: 0px solid #ddd; padding: 10px;">
     <span style="font-size: 1.5em;">
-        Experience<br>
+        <!-- Experience<br> -->
     </span><br>
     
     
